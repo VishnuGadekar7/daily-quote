@@ -2,8 +2,8 @@ name: Daily Quote Commit
 
 on:
   schedule:
-    - cron: '30 3 * * *'   # 3:30 UTC = 9:00 AM IST — adjust as needed
-  workflow_dispatch:        # allows manual trigger from Actions tab
+    - cron: '30 3 * * *'   # 3:30 UTC = 9:00 AM IST
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,10 +17,16 @@ jobs:
 
       - name: Fetch a random quote
         run: |
-          RESPONSE=$(curl -s https://api.quotable.io/random)
-          QUOTE=$(echo "$RESPONSE" | grep -o '"content":"[^"]*"' | sed 's/"content":"//;s/"$//')
-          AUTHOR=$(echo "$RESPONSE" | grep -o '"author":"[^"]*"' | sed 's/"author":"//;s/"$//')
+          RESPONSE=$(curl -sSL --fail "https://dummyjson.com/quotes/random")
+          QUOTE=$(echo "$RESPONSE" | jq -r '.quote')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.author')
           DATE=$(date -u +'%Y-%m-%d')
+
+          if [ -z "$QUOTE" ] || [ "$QUOTE" == "null" ]; then
+            QUOTE="The best way to get started is to quit talking and begin doing."
+            AUTHOR="Walt Disney"
+          fi
+
           echo "" >> quotes.md
           echo "### $DATE" >> quotes.md
           echo "> $QUOTE" >> quotes.md
