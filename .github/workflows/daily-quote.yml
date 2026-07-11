@@ -1,1 +1,35 @@
+name: Daily Quote Commit
 
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 3:30 UTC = 9:00 AM IST — adjust as needed
+  workflow_dispatch:        # allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  add-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch a random quote
+        run: |
+          RESPONSE=$(curl -s https://api.quotable.io/random)
+          QUOTE=$(echo "$RESPONSE" | grep -o '"content":"[^"]*"' | sed 's/"content":"//;s/"$//')
+          AUTHOR=$(echo "$RESPONSE" | grep -o '"author":"[^"]*"' | sed 's/"author":"//;s/"$//')
+          DATE=$(date -u +'%Y-%m-%d')
+          echo "" >> quotes.md
+          echo "### $DATE" >> quotes.md
+          echo "> $QUOTE" >> quotes.md
+          echo "— $AUTHOR" >> quotes.md
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add quotes.md
+          git commit -m "Quote of the day: $(date -u +'%Y-%m-%d')" || echo "Nothing to commit"
+          git push
