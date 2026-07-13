@@ -7,3 +7,7 @@
 ### 2026-07-12
 > Let the beauty of what you love be what you do.
 — Rumi
+
+### 2026-07-13
+> Do we not realize that self respect comes with self reliance?
+— Abdul Kalam
