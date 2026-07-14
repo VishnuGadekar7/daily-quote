@@ -15,3 +15,7 @@
 ### 2026-07-14
 > Why Shouldn'T Truth Be Stranger Than Fiction? Fiction, After All, Has To Make Sense.
 — Mark Twain
+
+### 2026-07-14
+> I Am Enough Of An Artist To Draw Freely Upon My Imagination.
+— Albert Einstein
