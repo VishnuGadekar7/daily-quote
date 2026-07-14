@@ -34,7 +34,7 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --local user.email "12345678+VishnuGadekar7@users.noreply.github.com"
+          git config --local user.email "174318333+VishnuGadekar7@users.noreply.github.com"
           git config --local user.name "VishnuGadekar7"
           git add quotes.md
           git commit -m "Quote of the day: $(date -u +'%Y-%m-%d')" || echo "Nothing to commit"
