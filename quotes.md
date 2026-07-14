@@ -11,3 +11,7 @@
 ### 2026-07-13
 > Do we not realize that self respect comes with self reliance?
 — Abdul Kalam
+
+### 2026-07-14
+> Why Shouldn'T Truth Be Stranger Than Fiction? Fiction, After All, Has To Make Sense.
+— Mark Twain
