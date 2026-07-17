@@ -31,3 +31,7 @@
 ### 2026-07-16
 > I believe in the religion of Islam. I believe in Allah and peace.
 — Muhammad Ali
+
+### 2026-07-17
+> These pains you feel are messengers. Listen to them.
+— Rumi
