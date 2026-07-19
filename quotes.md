@@ -39,3 +39,7 @@
 ### 2026-07-18
 > Be Happy For This Moment. This Moment Is Your Life.
 — Omar Khayyam
+
+### 2026-07-19
+> One of the very important characteristics of a student is to question. Let the students ask questions.
+— Abdul Kalam
