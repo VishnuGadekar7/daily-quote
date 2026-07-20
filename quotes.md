@@ -43,3 +43,7 @@
 ### 2026-07-19
 > One of the very important characteristics of a student is to question. Let the students ask questions.
 — Abdul Kalam
+
+### 2026-07-20
+> We Have New Developing Ties With Japan Whom Always Supports Our Democratic Process And Economic Development.
+— Ali A. Saleh
