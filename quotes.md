@@ -71,3 +71,7 @@
 ### 2026-07-26
 > If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones.
 — Umar ibn Al-Khattāb (R.A)
+
+### 2026-07-27
+> It is a matter of shame that in the morning the birds should be awake earlier than you.
+— Abu Bakr (R.A)
