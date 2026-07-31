@@ -87,3 +87,7 @@
 ### 2026-07-30
 > All birds find shelter during a rain. But eagle avoids rain by flying above the clouds. Problems are common, but attitude makes the difference.
 — Abdul Kalam
+
+### 2026-07-31
+> You Don'T Learn To Walk By Following Rules. You Learn By Doing, And By Falling Over.
+— Richard Branson
