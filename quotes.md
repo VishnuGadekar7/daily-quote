@@ -91,3 +91,7 @@
 ### 2026-07-31
 > You Don'T Learn To Walk By Following Rules. You Learn By Doing, And By Falling Over.
 — Richard Branson
+
+### 2026-08-01
+> No boxer in the history of boxing has had Parkinson's. There's no injury in my brain that suggests that the illness came from boxing.
+— Muhammad Ali
