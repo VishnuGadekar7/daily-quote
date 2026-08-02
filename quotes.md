@@ -95,3 +95,7 @@
 ### 2026-08-01
 > No boxer in the history of boxing has had Parkinson's. There's no injury in my brain that suggests that the illness came from boxing.
 — Muhammad Ali
+
+### 2026-08-02
+> The World Breaks Everyone, And Afterward, Some Are Strong At The Broken Places.
+— Ernest Hemingway
