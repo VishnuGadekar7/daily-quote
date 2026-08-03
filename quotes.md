@@ -99,3 +99,7 @@
 ### 2026-08-02
 > The World Breaks Everyone, And Afterward, Some Are Strong At The Broken Places.
 — Ernest Hemingway
+
+### 2026-08-03
+> Believe You Can And You'Re Halfway There.
+— Theodore Roosevelt
