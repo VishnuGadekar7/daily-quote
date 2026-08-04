@@ -103,3 +103,7 @@
 ### 2026-08-03
 > Believe You Can And You'Re Halfway There.
 — Theodore Roosevelt
+
+### 2026-08-04
+> Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself!
+— Ali ibn Abi Talib (R.A)
