@@ -111,3 +111,7 @@
 ### 2026-08-05
 > Admiration For A Quality Or An Art Can Be So Strong That It Deters Us From Striving To Possess It.
 — Friedrich Nietzsche
+
+### 2026-08-06
+> There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes.
+— Rumi
