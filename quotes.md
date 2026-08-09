@@ -123,3 +123,7 @@
 ### 2026-08-08
 > Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be.
 — Zig Ziglar
+
+### 2026-08-09
+> Tell Me And I Forget. Teach Me And I Remember. Involve Me And I Learn.
+— Benjamin Franklin
