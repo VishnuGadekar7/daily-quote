@@ -135,3 +135,7 @@
 ### 2026-08-11
 > Learning Never Exhausts The Mind.
 — Leonardo Da Vinci
+
+### 2026-08-12
+> People of the world don't look at themselves, and so they blame one another.
+— Rumi
