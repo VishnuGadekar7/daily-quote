@@ -139,3 +139,7 @@
 ### 2026-08-12
 > People of the world don't look at themselves, and so they blame one another.
 — Rumi
+
+### 2026-08-13
+> One Believes Others Will Do What He Will Do To Himself.
+— Victor Hugo
