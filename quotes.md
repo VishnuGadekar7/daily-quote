@@ -143,3 +143,7 @@
 ### 2026-08-13
 > One Believes Others Will Do What He Will Do To Himself.
 — Victor Hugo
+
+### 2026-08-14
+> Body is purified by water. Ego by tears. Intellect is purified by knowledge. And soul is purified with love.
+— Ali ibn Abi Talib (R.A)
