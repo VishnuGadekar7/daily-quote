@@ -147,3 +147,7 @@
 ### 2026-08-14
 > Body is purified by water. Ego by tears. Intellect is purified by knowledge. And soul is purified with love.
 — Ali ibn Abi Talib (R.A)
+
+### 2026-08-15
+> Be Careless In Your Dress If You Will, But Keep A Tidy Soul.
+— Mark Twain
