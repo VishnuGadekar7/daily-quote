@@ -151,3 +151,7 @@
 ### 2026-08-15
 > Be Careless In Your Dress If You Will, But Keep A Tidy Soul.
 — Mark Twain
+
+### 2026-08-16
+> A Life Of Leisure And A Life Of Laziness Are Two Things. There Will Be Sleeping Enough In The Grave.
+— Benjamin Franklin
