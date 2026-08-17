@@ -155,3 +155,7 @@
 ### 2026-08-16
 > A Life Of Leisure And A Life Of Laziness Are Two Things. There Will Be Sleeping Enough In The Grave.
 — Benjamin Franklin
+
+### 2026-08-17
+> Bear sorrows and calamities patiently, otherwise you will never be happy.
+— Ali ibn Abi Talib (R.A)
