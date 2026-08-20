@@ -167,3 +167,7 @@
 ### 2026-08-19
 > Everything in the universe is within you. Ask all from yourself.
 — Rumi
+
+### 2026-08-20
+> He who busies himself with things other than improvement of his own self becomes perplexed in darkness and entangled in ruin. His evil spirits immerse him deep in vices and make his bad actions seem handsome.
+— Ali ibn Abi Talib (R.A)
