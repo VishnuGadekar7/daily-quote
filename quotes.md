@@ -171,3 +171,7 @@
 ### 2026-08-20
 > He who busies himself with things other than improvement of his own self becomes perplexed in darkness and entangled in ruin. His evil spirits immerse him deep in vices and make his bad actions seem handsome.
 — Ali ibn Abi Talib (R.A)
+
+### 2026-08-21
+> If You Can'T Fly Then Run, If You Can'T Run Then Walk, If You Can'T Walk Then Crawl, But Whatever You Do You Have To Keep Moving Forward.
+— Martin Luther King  Jr.
