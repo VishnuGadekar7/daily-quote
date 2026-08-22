@@ -175,3 +175,7 @@
 ### 2026-08-21
 > If You Can'T Fly Then Run, If You Can'T Run Then Walk, If You Can'T Walk Then Crawl, But Whatever You Do You Have To Keep Moving Forward.
 — Martin Luther King  Jr.
+
+### 2026-08-22
+> Where There Is No Struggle, There Is No Strength.
+— Oprah Winfrey
