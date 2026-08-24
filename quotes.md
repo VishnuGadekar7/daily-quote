@@ -183,3 +183,7 @@
 ### 2026-08-23
 > I'm gonna whup whoever stole my bike!
 — Muhammad Ali
+
+### 2026-08-24
+> An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last.
+— Winston Churchill
