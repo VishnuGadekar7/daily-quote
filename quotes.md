@@ -187,3 +187,7 @@
 ### 2026-08-24
 > An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last.
 — Winston Churchill
+
+### 2026-08-25
+> Light up the fire of love inside and blaze the thoughts away.
+— Rumi
