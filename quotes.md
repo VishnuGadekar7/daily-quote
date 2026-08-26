@@ -191,3 +191,7 @@
 ### 2026-08-25
 > Light up the fire of love inside and blaze the thoughts away.
 — Rumi
+
+### 2026-08-26
+> Dance, and make joyous the love around you. Dance, and your veils which hide the Light shall swirl in a heap at your feet.
+— Rumi
