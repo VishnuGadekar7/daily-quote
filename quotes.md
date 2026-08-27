@@ -195,3 +195,7 @@
 ### 2026-08-26
 > Dance, and make joyous the love around you. Dance, and your veils which hide the Light shall swirl in a heap at your feet.
 — Rumi
+
+### 2026-08-27
+> Greed is permanent slavery.
+— Ali ibn Abi Talib (R.A)
