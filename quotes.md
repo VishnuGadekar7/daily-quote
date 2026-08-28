@@ -199,3 +199,7 @@
 ### 2026-08-27
 > Greed is permanent slavery.
 — Ali ibn Abi Talib (R.A)
+
+### 2026-08-28
+> Avoid Popularity If You Would Have Peace.
+— Abraham Lincoln
