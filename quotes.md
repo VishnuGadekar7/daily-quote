@@ -203,3 +203,7 @@
 ### 2026-08-28
 > Avoid Popularity If You Would Have Peace.
 — Abraham Lincoln
+
+### 2026-08-29
+> The more knowledge you have, the greater will be your fear of Allah.
+— Abu Bakr (R.A)
