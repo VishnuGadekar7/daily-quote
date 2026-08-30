@@ -207,3 +207,7 @@
 ### 2026-08-29
 > The more knowledge you have, the greater will be your fear of Allah.
 — Abu Bakr (R.A)
+
+### 2026-08-30
+> I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody.
+— Bill Cosby
