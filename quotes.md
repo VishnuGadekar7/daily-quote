@@ -223,3 +223,7 @@
 ### 2026-09-02
 > Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
 — Rumi
+
+### 2026-09-03
+> Know thyself, and thou shalt know God.
+— Ali ibn Abi Talib (R.A)
