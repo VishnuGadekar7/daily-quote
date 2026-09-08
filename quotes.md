@@ -243,3 +243,7 @@
 ### 2026-09-07
 > Wherever You Go, Go With All Your Heart.
 — Confucius
+
+### 2026-09-08
+> Paintings Have A Life Of Their Own That Derives From The Painter'S Soul.
+— Vincent Van Gogh
