@@ -247,3 +247,7 @@
 ### 2026-09-08
 > Paintings Have A Life Of Their Own That Derives From The Painter'S Soul.
 — Vincent Van Gogh
+
+### 2026-09-09
+> Life Well Spent Is Long.
+— Leonardo Da Vinci
