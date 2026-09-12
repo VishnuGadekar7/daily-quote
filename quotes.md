@@ -259,3 +259,7 @@
 ### 2026-09-11
 > Wherever you are, and whatever you do, be in love.
 — Rumi
+
+### 2026-09-12
+> If you are born with fame, it is an accident. If you die with fame, it is an achievement.
+— Abdul Kalam
