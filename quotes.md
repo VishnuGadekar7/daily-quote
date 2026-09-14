@@ -263,3 +263,7 @@
 ### 2026-09-12
 > If you are born with fame, it is an accident. If you die with fame, it is an achievement.
 — Abdul Kalam
+
+### 2026-09-14
+> O man you are busy working for the world, and the world is busy trying to turn you out.
+— Abu Bakr (R.A)
