@@ -267,3 +267,7 @@
 ### 2026-09-14
 > O man you are busy working for the world, and the world is busy trying to turn you out.
 — Abu Bakr (R.A)
+
+### 2026-09-15
+> Words, Without Power, Is Mere Philosophy.
+— Muhammad Iqbal
