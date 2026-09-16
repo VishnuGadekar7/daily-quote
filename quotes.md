@@ -271,3 +271,7 @@
 ### 2026-09-15
 > Words, Without Power, Is Mere Philosophy.
 — Muhammad Iqbal
+
+### 2026-09-16
+> When setting out on a journey do not seek advice from someone who never left home.
+— Rumi
