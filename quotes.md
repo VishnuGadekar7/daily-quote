@@ -283,3 +283,7 @@
 ### 2026-09-18
 > India should walk on her own shadow - we must have our own development model.
 — Abdul Kalam
+
+### 2026-09-19
+> A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On.
+— Winston Churchill
