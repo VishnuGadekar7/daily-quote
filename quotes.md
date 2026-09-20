@@ -287,3 +287,7 @@
 ### 2026-09-19
 > A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On.
 — Winston Churchill
+
+### 2026-09-20
+> Either you are just or unjust. If you are just, then you will not keep aloof from the people, but will listen to them and meet their requirements. But if you are unjust, the people themselves will keep away from you.
+— Ali ibn Abi Talib (R.A)
