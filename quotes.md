@@ -295,3 +295,7 @@
 ### 2026-09-21
 > Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence.
 — Albert Camus
+
+### 2026-09-22
+> Everyone Should Be Respected As An Individual, But No One Idolized.
+— Albert Einstein
