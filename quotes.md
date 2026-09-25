@@ -307,3 +307,7 @@
 ### 2026-09-24
 > I Am The Greatest, I Said That Even Before I Knew I Was.
 — Muhammad Ali
+
+### 2026-09-25
+> Be motivated like the falcon, hunt gloriously. Be magnificent as the leopard, fight to win. Spend less time with nightingales and peacocks. One is all talk, the other only color.
+— Rumi
