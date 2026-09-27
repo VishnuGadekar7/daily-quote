@@ -315,3 +315,7 @@
 ### 2026-09-26
 > I'll tell you how I'd like to be remembered: As a black man who won the heavyweight title - Who has humorous and who never looked down on those who looked up to him - A man who stood for freedom, justice and equality - And I wouldn't even mind if folks forgot how pretty I was.
 — Muhammad Ali
+
+### 2026-09-27
+> The sweetness of life lies in dispensing with formalities.
+— Muhammad Ali
