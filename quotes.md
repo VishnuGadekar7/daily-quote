@@ -319,3 +319,7 @@
 ### 2026-09-27
 > The sweetness of life lies in dispensing with formalities.
 — Muhammad Ali
+
+### 2026-09-28
+> I belong to no religion. My religion is love. Every heart is my temple.
+— Rumi
