@@ -335,3 +335,7 @@
 ### 2026-10-01
 > In every religion there is love, yet love has no religion.
 — Rumi
+
+### 2026-10-02
+> One who rushes madly after inordinate desire, runs the risk of encountering destruction and death.
+— Ali ibn Abi Talib (R.A)
