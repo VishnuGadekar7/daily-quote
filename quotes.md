@@ -355,3 +355,7 @@
 ### 2026-10-06
 > I closed my mouth and spoke to you in a hundred silent ways.
 — Rumi
+
+### 2026-10-07
+> Teaching is a very noble profession that shapes the character, caliber, and future of an individual. If the people remember me as a good teacher, that will be the biggest honour for me.
+— Abdul Kalam
