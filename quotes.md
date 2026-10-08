@@ -359,3 +359,7 @@
 ### 2026-10-07
 > Teaching is a very noble profession that shapes the character, caliber, and future of an individual. If the people remember me as a good teacher, that will be the biggest honour for me.
 — Abdul Kalam
+
+### 2026-10-08
+> The sin which makes you sad and repentant is more liked by Allah than the good deed which turns you arrogant.
+— Ali ibn Abi Talib (R.A)
