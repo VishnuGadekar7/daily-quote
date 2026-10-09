@@ -363,3 +363,7 @@
 ### 2026-10-08
 > The sin which makes you sad and repentant is more liked by Allah than the good deed which turns you arrogant.
 — Ali ibn Abi Talib (R.A)
+
+### 2026-10-09
+> Courtesy costs nothing, but buys everything.
+— Ali ibn Abi Talib (R.A)
