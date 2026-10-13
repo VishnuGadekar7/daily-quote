@@ -379,3 +379,7 @@
 ### 2026-10-12
 > If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up.
 — Hunter S. Thompson
+
+### 2026-10-13
+> No boxer in the history of boxing has had Parkinson's. There's no injury in my brain that suggests that the illness came from boxing.
+— Muhammad Ali
