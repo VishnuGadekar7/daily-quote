@@ -387,3 +387,7 @@
 ### 2026-10-14
 > As a child of God, I am greater than anything that can happen to me.
 — Abdul Kalam
+
+### 2026-10-15
+> Do not put off today's work until tomorrow, lest work accumulate and you achieve nothing.
+— Umar ibn Al-Khattāb (R.A)
