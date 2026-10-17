@@ -395,3 +395,7 @@
 ### 2026-10-16
 > By Failing To Prepare, You Are Preparing To Fail.
 — Benjamin Franklin
+
+### 2026-10-17
+> Always consider your intellect to be lacking; otherwise too much faith in it surely leads to error.
+— Ali ibn Abi Talib (R.A)
