@@ -403,3 +403,7 @@
 ### 2026-10-18
 > Dance, when you're broken open. Dance, if you've torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you're perfectly free.
 — Rumi
+
+### 2026-10-19
+> If all you can do is crawl, start crawling.
+— Rumi
