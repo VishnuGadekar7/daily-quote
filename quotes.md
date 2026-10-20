@@ -407,3 +407,7 @@
 ### 2026-10-19
 > If all you can do is crawl, start crawling.
 — Rumi
+
+### 2026-10-20
+> The Price Of Greatness Is Responsibility.
+— Winston Churchill
