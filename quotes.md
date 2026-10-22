@@ -415,3 +415,7 @@
 ### 2026-10-21
 > My place is placeless, a trace of the traceless.
 — Rumi
+
+### 2026-10-22
+> The wisest man is he who can account for his actions.
+— Umar ibn Al-Khattāb (R.A)
