@@ -427,3 +427,7 @@
 ### 2026-10-24
 > When Obstacles Arise, You Change Your Direction To Reach Your Goal; You Do Not Change Your Decision To Get There.
 — Zig Ziglar
+
+### 2026-10-25
+> We are all born with a divine fire in us. Our efforts should be to give wings to this fire and fill the world with the glow of its goodness.
+— Abdul Kalam
