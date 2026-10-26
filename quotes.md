@@ -431,3 +431,7 @@
 ### 2026-10-25
 > We are all born with a divine fire in us. Our efforts should be to give wings to this fire and fill the world with the glow of its goodness.
 — Abdul Kalam
+
+### 2026-10-26
+> Be soulful. Be kind. Be in love.
+— Rumi
