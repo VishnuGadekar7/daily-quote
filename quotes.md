@@ -439,3 +439,7 @@
 ### 2026-10-27
 > There is a field beyond all notions of right and wrong. Come, meet me there.
 — Rumi
+
+### 2026-10-28
+> There are three signs of a knowledgeable person: knowledge, forbearance and silence.
+— Ali ibn Abi Talib (R.A)
