@@ -447,3 +447,7 @@
 ### 2026-10-29
 > He who understands humanity seeks solitude.
 — Ali ibn Abi Talib (R.A)
+
+### 2026-10-30
+> Where The Spirit Does Not Work With The Hand, There Is No Art.
+— Leonardo Da Vinci
