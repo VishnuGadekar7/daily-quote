@@ -459,3 +459,7 @@
 ### 2026-11-01
 > Art Is The Proper Task Of Life.
 — Friedrich Nietzsche
+
+### 2026-11-02
+> On every dishonest man, there are two watchmen, his possessions, and his way of living.
+— Umar ibn Al-Khattāb (R.A)
