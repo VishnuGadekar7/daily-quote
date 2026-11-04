@@ -467,3 +467,7 @@
 ### 2026-11-03
 > Whatever happens, just keep smiling and lose yourself in Love.
 — Rumi
+
+### 2026-11-04
+> You have to keep breaking your heart until it opens.
+— Rumi
