@@ -479,3 +479,7 @@
 ### 2026-11-06
 > Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors.
 — Confucius
+
+### 2026-11-07
+> I Like To Listen. I Have Learned A Great Deal From Listening Carefully. Most People Never Listen.
+— Ernest Hemingway
