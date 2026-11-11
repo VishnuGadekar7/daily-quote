@@ -495,3 +495,7 @@
 ### 2026-11-10
 > This place is a dream. Only a sleeper considers it real. Then death comes like dawn, and you wake up laughing at what you thought was your grief.
 — Rumi
+
+### 2026-11-11
+> Pride In The Case Of A Rich Man Is Bad, But Pride In The Case Of A Poor Man Is Worse.
+— Abu Bakr
