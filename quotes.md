@@ -515,3 +515,7 @@
 ### 2026-11-15
 > A Candle never Loses any of its Light while Lighting up another candle.
 — Rumi
+
+### 2026-11-16
+> Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing.
+— Theodore Roosevelt
