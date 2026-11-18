@@ -523,3 +523,7 @@
 ### 2026-11-17
 > I'm gonna whup whoever stole my bike!
 — Muhammad Ali
+
+### 2026-11-18
+> Heart is a sea, language is the shore. Whatever is in a sea hits the shore.
+— Rumi
