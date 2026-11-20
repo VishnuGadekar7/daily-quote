@@ -531,3 +531,7 @@
 ### 2026-11-19
 > Put yourself out on a limb, sucka, like me!
 — Muhammad Ali
+
+### 2026-11-20
+> You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win.
+— Zig Ziglar
