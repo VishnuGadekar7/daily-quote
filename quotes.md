@@ -535,3 +535,7 @@
 ### 2026-11-20
 > You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win.
 — Zig Ziglar
+
+### 2026-11-21
+> In the matter of justice, all should be equal in your eyes.
+— Abu Bakr (R.A)
