@@ -539,3 +539,7 @@
 ### 2026-11-21
 > In the matter of justice, all should be equal in your eyes.
 — Abu Bakr (R.A)
+
+### 2026-11-22
+> If We Really Want To Love We Must Learn How To Forgive.
+— Mother Teresa
