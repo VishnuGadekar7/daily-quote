@@ -551,3 +551,7 @@
 ### 2026-11-24
 > You are not just the drop in the ocean. You are the mighty ocean in the drop.
 — Rumi
+
+### 2026-11-25
+> I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields.
+— Willie Nelson
