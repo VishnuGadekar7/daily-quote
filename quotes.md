@@ -559,3 +559,7 @@
 ### 2026-11-26
 > Learn the Arabic language; it will sharpen your wisdom.
 — Umar ibn Al-Khattāb (R.A)
+
+### 2026-11-27
+> Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself!
+— Ali ibn Abi Talib (R.A)
