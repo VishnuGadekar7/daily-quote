@@ -563,3 +563,7 @@
 ### 2026-11-27
 > Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself!
 — Ali ibn Abi Talib (R.A)
+
+### 2026-11-28
+> The Right Word May Be Effective, But No Word Was Ever As Effective As A Rightly Timed Pause.
+— Mark Twain
